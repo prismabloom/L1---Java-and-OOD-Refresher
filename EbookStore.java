@@ -23,6 +23,7 @@ public class EbookStore {
             bookNotFound = true;
             if(input.equals("s")) { //Activates search mode
                 System.out.println();
+                System.out.println();
                 System.out.println("*** Search Mode Activated ***");
                 System.out.println();
                 while(true) {
